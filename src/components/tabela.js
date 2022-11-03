@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 export default function Tabela() {
     return (
-        <table class="table">
+        <table>
             <thead>
                 <tr>
                     <th>Classificação</th>
